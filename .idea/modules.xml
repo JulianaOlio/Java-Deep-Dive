@@ -2,6 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/aula-01/aula-01.iml" filepath="$PROJECT_DIR$/aula-01/aula-01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aula-02/aula-02.iml" filepath="$PROJECT_DIR$/aula-02/aula-02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aula-03/aula-03.iml" filepath="$PROJECT_DIR$/aula-03/aula-03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aula-04/aula-04.iml" filepath="$PROJECT_DIR$/aula-04/aula-04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exercicios/exercicios.iml" filepath="$PROJECT_DIR$/exercicios/exercicios.iml" />
       <module fileurl="file://$PROJECT_DIR$/pensamento-computacional-java.iml" filepath="$PROJECT_DIR$/pensamento-computacional-java.iml" />
     </modules>
   </component>
